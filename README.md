@@ -1,5 +1,5 @@
 # Perakende Bankacılık için PD Tabanlı Kredi Riski Erken Uyarı Modeli
-> ⚠️ **Önemli:** Analizi düzgün görüntülemek için pdf yerine `pd-early-warning-model.ipynb` dosyasını açınız. Veya `pd-early-warning-model.html` dosyasını kaydederek de tarayıcınız üzerinden görüntüleyebilirsiniz.
+> ⚠️ **Önemli:** Analizi düzgün görüntülemek için pdf yerine `pd-early-warning-model.ipynb` dosyasını açınız. Veya `pd-early-warning-model.html` dosyasını kaydederek tarayıcınız üzerinden görüntüleyebilirsiniz.
 
 Bu projede perakende bankacılık kredi portföyü için **12 aylık temerrüt olasılığını (Probability of Default – PD)** tahmin eden ve bu tahminleri kullanarak **erken uyarı (Early Warning) ve risk segmentasyonu** üreten bir model geliştirilmiştir.
 
